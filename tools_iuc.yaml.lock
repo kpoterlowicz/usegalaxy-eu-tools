@@ -708,6 +708,7 @@ tools:
   revisions:
   - 7d56a813fd24
   - c61bc8bb5f1e
+  - ee0d6e789958
   tool_panel_section_label: Assembly
 - name: hifiasm
   owner: bgruening
@@ -7785,6 +7786,7 @@ tools:
 - name: htseq_count
   owner: lparsons
   revisions:
+  - 4418229c501e
   - 916cb26bd9d3
   tool_panel_section_label: RNA Analysis
 - name: idr
