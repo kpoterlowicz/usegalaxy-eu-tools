@@ -290,5 +290,6 @@ tools:
 - name: manta
   owner: artbio
   revisions:
+  - 555971edd46e
   - cb5691381acb
   tool_panel_section_label: Variant Calling
