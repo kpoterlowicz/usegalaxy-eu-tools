@@ -101,6 +101,7 @@ tools:
   owner: recetox
   revisions:
   - 09cabbc3d12d
+  - 2d94da58904b
   - 9b716db0a786
   - d70dd1d6ac4d
   tool_panel_section_label: Metabolomics
@@ -110,6 +111,7 @@ tools:
   - 5f2b58dadb39
   - 7bbdcce50541
   - 7c50666b88e8
+  - 87ac0b56b9b0
   tool_panel_section_label: Metabolomics
 - name: recetox_xmsannotator_advanced
   owner: recetox
